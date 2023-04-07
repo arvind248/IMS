@@ -1,0 +1,18 @@
+create table  enquiry (    
+    enquiryid int PRIMARY KEY NOT NULL,
+    enquirydate varchar(30),
+    registrationfees varchar(30),
+    status varchar(30),
+    name varchar(30),
+    gender varchar(30),
+    course varchar(30),
+    address varchar(30),
+    state varchar(30),
+    city varchar(30),
+    pin varchar(30),
+    fathername varchar(30),
+    mobileno varchar(30),
+    email varchar(30),
+    qualification varchar(30),
+    passingyear varchar(30),
+    nationality varchar(30));

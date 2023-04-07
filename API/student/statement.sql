@@ -1,0 +1,1 @@
+create table student(rollno int PRIMARY KEY, name varchar(30), dob date, gender varchar(30), course varchar(30), address varchar(50), state varchar(30), city varchar(30), pin varchar(30), fathername varchar(30), mothername varchar(30), mobileno varchar(30), email varchar(30), qualification varchar(30), passingyear varchar(30), nationality varchar(30));
